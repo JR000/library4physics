@@ -1,4 +1,4 @@
-#pragma region Differentiation using Lagrange's interpolational polynom
+#pragma region Differentiation using Lagrange's polynom
 float lagrange_inter_dif(float xi, float x[], float y[], int n) {
 	float s1 = 0;
 	for (int i = 0; i < n; i++) {
