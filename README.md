@@ -12,9 +12,9 @@ Library for various useful things to be used in computational physics.
   * Simpson's method
 * Linear regression methods:
   * Implementation of the Least squares method:
-    * approximation by one parameter linear function
+    * approximation by one-parameter linear function
 * Numerical differetiation
-  * using Lagrange's interpolational polynom
+  * using Lagrange's polynom (one-parameter functions)
     
 **How to use**:
 1) Copy all files from this repo into the same folder
