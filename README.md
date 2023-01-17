@@ -1,3 +1,5 @@
+Unsafe, I know...
+
 # Library for physics
 Library for various useful things to be used in computational physics.
 
