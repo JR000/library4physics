@@ -7,7 +7,7 @@ Library for various useful things to be used in computational physics.
 * Non-linear equations solving methods:
   * Dychotomy
   * Newton's method
-* Implementation of Euler's scheme for solving Cauchy's problem
+* Implementation of Euler's scheme for solving the Cauchy's problem
 * Integration methods:
   * Squares (right, left, middle - all both with custom and even grids)
   * Trapeces (custom and even grids)
